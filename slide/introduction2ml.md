@@ -15,3 +15,21 @@ _header: ""
 # <br><span style="font-size: 37px">【親展】ようこそ、ネットワーク・AIのブラックボックスの中へ</span><br><hr>&emsp;&emsp;AI編
 
 ## 機械学習って何？
+
+![w:900](images/ask_to_chatgpt.png)
+
+## 一言で言うと？
+
+![w:900](images/in_one_sentence.png)
+
+- データから自動的に**パターン**を発見し、未知のデータに対する予測や分類を行う人工知能の技術
+
+---
+![bg](images/classification_of_ml.png)
+
+<!--
+_paginate: false
+_header: ""
+_footer: ""
+-->
+
