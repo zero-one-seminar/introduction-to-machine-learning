@@ -14,6 +14,18 @@ _header: ""
 -->
 # <br><span style="font-size: 37px">【親展】ようこそ、ネットワーク・AIのブラックボックスの中へ</span><br><hr>&emsp;&emsp;AI編
 
+---
+### 最近"AI"ってよく聞きませんか？？
+
+- StableDiffusion（画像生成AI）
+
+![h:130](images/stable-diffusion-image.png)
+
+- ChatGPT（チャットボットAI）
+
+![h:130](images/chatgpt-about.png)
+
+
 ## 機械学習って何？
 
 ![w:900](images/ask_to_chatgpt.png)
@@ -23,6 +35,8 @@ _header: ""
 ![w:900](images/in_one_sentence.png)
 
 - データから自動的に**パターン**を発見し、未知のデータに対する予測や分類を行う人工知能の技術
+- [StableDiffusion](https://github.com/Stability-AI/stablediffusion)とか[ChatGPT](https://openai.com/blog/chatgpt)も基本的にはこれ
+
 
 ---
 ![bg](images/classification_of_ml.png)
