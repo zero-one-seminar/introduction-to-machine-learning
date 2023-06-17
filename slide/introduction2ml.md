@@ -14,6 +14,17 @@ _header: ""
 -->
 # <br><span style="font-size: 37px">【親展】ようこそ、ネットワーク・AIのブラックボックスの中へ</span><br><hr>&emsp;&emsp;AI編
 
+
+## 自己紹介
+
+<span style="font-size: 50px;">甲本健太</span>
+
+- 所属：名古屋大学情報学部自然情報学科 数理情報系 3年
+- 出身：秋田県 :japanese_ogre:
+- 好きな食べ物：うなぎ
+- 機械学習ゼミ：
+  「ゼロから作るディープラーニング」という本をみんなで勉強
+
 ---
 ### 最近"AI"ってよく聞きませんか？？
 
@@ -38,12 +49,18 @@ _header: ""
 - [StableDiffusion](https://github.com/Stability-AI/stablediffusion)とか[ChatGPT](https://openai.com/blog/chatgpt)も基本的にはこれ
 
 
----
-![bg](images/classification_of_ml.png)
+<!-- ---
+![bg](images/classification_of_ml.png) -->
 
 <!--
+--
 _paginate: false
 _header: ""
 _footer: ""
 -->
+
+## ここでクイズ！
+
+### 第1問
+
 
