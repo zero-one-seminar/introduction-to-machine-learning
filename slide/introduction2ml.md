@@ -25,6 +25,19 @@ _header: ""
 - 機械学習ゼミ：
   「ゼロから作るディープラーニング」という本をみんなで勉強
 
+
+## 今日の内容
+
+- 「AI」の中身がわかった気になれます！
+- 「もうわかってるよ」って人はぜひゼミに来てください！
+
+### 目次
+
+1. AIって何？
+2. AIの大まかな仕組み
+3. AIの種類
+4. AIクイズ
+
 ---
 ### 最近"AI"ってよく聞きませんか？？
 
@@ -49,18 +62,41 @@ _header: ""
 - [StableDiffusion](https://github.com/Stability-AI/stablediffusion)とか[ChatGPT](https://openai.com/blog/chatgpt)も基本的にはこれ
 
 
-<!-- ---
-![bg](images/classification_of_ml.png) -->
+## 人工知能にはどんな種類があるの？
+
+- 画像が得意なAI
+- 文章が得意なAI
+- ゲームが得意なAI
+- ：
+
+→ AIの種類によって得意不得意がある！
+
+仕組み別に分類するとこんな感じになります↓
+
+---
+![bg](images/classification_of_ml.png)
 
 <!--
---
 _paginate: false
 _header: ""
 _footer: ""
 -->
 
-## ここでクイズ！
+# <br><br><br><center>ここでクイズ！&emsp;</center>
 
-### 第1問
+## 第1問
+
+次の場面のうち、機械学習（AI）を
 
 
+## 第2問
+
+
+
+
+## 第3問
+
+
+
+
+# まとめ
