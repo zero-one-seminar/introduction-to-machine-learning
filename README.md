@@ -1,3 +1,2 @@
-# introduction-to-machine-learning
-
-新歓企画「好きを語ろう」の機械学習編です。
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
